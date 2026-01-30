@@ -49,7 +49,7 @@ Hiring Manager
 
 ```
 
-multiagent_interview.ipynb
+mas_pipline.ipynb
 
 ````
 
@@ -71,7 +71,7 @@ multiagent_interview.ipynb
 В первой ячейке ноутбука выполните:
 
 ```python
-!pip install langchain langchain-openai langchain-community pydantic tiktoken requests
+!pip install langchain langchain-openai langchain-community  pydantic   tiktoken requests langchain_text_splitters  langchain_core typing
 ````
 
 ---
